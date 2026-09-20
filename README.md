@@ -1,16 +1,42 @@
-# React + Vite
+# Abhi Editz
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A client-focused video project management platform designed to streamline video delivery, client review, and approval workflows.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Client-specific project access
+- Project and video management
+- Video upload and delivery workflow
+- Client-side project review
+- Final video approval workflow
+- Admin project management
+- Responsive web interface
+- Client-focused workflow for video editors
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- Vite
+- CSS
+- Firebase
 
-## Expanding the Oxlint configuration
+## Project Workflow
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Admin creates and manages client projects
+2. Client accesses only their assigned projects
+3. Videos are uploaded and presented for review
+4. Client reviews the delivered work
+5. Client can approve the final version
+
+## Project Focus
+
+Abhi Editz is built around a practical client workflow rather than a simple showcase website, with emphasis on project organization, controlled client access, video delivery, and approval.
+
+## Status
+
+🚧 Actively developing
+
+## Author
+
+**Abhishek Prajapat**
