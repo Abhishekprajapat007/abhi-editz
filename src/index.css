@@ -6,3 +6,20 @@
 body {
   min-width: 320px;
 }
+
+footer a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 18px;
+  color: #a1a1aa;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  transition: 0.25s ease;
+}
+
+footer a:hover {
+  color: #ffffff;
+  transform: translateY(-1px);
+}

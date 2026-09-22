@@ -369,6 +369,14 @@ function App() {
         </div>
 
         <p>© 2026 ABHI EDITZ. All rights reserved.</p>
+
+        <a
+  href="https://github.com/Abhishek48x"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  GitHub
+</a>
       </footer>
     </div>
         } />
